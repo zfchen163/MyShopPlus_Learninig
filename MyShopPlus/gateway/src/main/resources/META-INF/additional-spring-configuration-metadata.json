@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "base.config.nacos.hostname",
+      "type": "java.lang.String",
+      "description": "Description for base.config.nacos.hostname."
+  }
+] }

@@ -4,10 +4,10 @@ base:
       hostname: localhost
       port: 9001
     nacos:
-      hostname: 192.168.179.128
-      port: 80
+      hostname: 192.168.1.220
+      port: 8848
     rocketmq:
-      hostname: 127.0.0.1
+      hostname: 192.168.1.220
       port: 9876
 
 spring:
